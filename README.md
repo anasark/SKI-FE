@@ -32,7 +32,7 @@ docker-compose up -d --build
 ---
 
 
-## 🚋 Option 2: Run with PHP (without Docker)
+## Run with PHP (without Docker)
 
 ### Requirement
 - PHP 8.2+   
